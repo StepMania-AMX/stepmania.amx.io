@@ -41,7 +41,7 @@ popularizara el concepto "portable", por lo tanto no utiliza un instalador.
 
 La instalación es muy sencilla, solo basta con extraer el archivo .7z
 a una carpeta (ej. `Documentos`). Si no tienes un programa que abra archivos .7z,
-el recomendado es [7-zip](http://www.7-zip.org/).
+el recomendado es [7-zip](https://www.7-zip.org/).
 
 ![](/img/blog/tutorial-install/01.gif)
 
@@ -163,7 +163,7 @@ Y ahora sí, ya podemos jugar:
 
 ![](/img/blog/tutorial-install/15.jpg)
 
-Las canciones que agregué las puedes encontrar [aquí](http://aldo.mx/songs).
+Las canciones que agregué las puedes encontrar [aquí](https://aldo.mx/songs).
 
 En la [barra lateral de la derecha](#recommended), podrás encontrar
 algunos links recomendados para descargar canciones hechas por miembros de la
